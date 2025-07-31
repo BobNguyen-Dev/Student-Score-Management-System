@@ -125,7 +125,7 @@ Visit `http://127.0.0.1:5000` in your browser.
 - **👨‍🎓 Bob Nguyen**  
 - 💼 High school student (Grade 10)  
 - 🎯 Interested in AI & Cybersecurity (studying path to Germany 🇩🇪)  
-- 📧 Contact: [your-email@example.com]()
+- 📧 Contact: [bobnguyenn.dev@gmail.com]()
 
 ---
 
